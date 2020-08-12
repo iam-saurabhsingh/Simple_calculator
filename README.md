@@ -4,12 +4,16 @@ Basic Calculator using Python
 # To perform additiion
 def add(a, b):
    return a + b
+   
+   
 # To perform subtraction
 def subtract(a, b):
    return a - b
+   
 # To perform multiplication
 def multiply(a, b):
    return a * b
+   
 # To perform division
 def divide(a, b):
 return a / b
@@ -18,6 +22,8 @@ print("+")
 print("-")
 print("*")
 print("/")
+
+
 # User input
 choice = input("Enter operator to use:")
 A = int(input("Enter first number: "))
