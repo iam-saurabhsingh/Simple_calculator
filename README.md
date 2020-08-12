@@ -1,14 +1,13 @@
 # Simple_calculator
 Basic Calculator using Python
 
-
 # To perform additiion
 def add(a, b):
    return a + b
 # To perform subtraction
 def subtract(a, b):
    return a - b
-# TTo perform multiplication
+# To perform multiplication
 def multiply(a, b):
    return a * b
 # To perform division
